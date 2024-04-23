@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anastaha
-- 👀 I’m interested in webdeveloppement
-- 🌱 I’m currently learning python
+- 👀 I’m interested in backend developpement
+- 🌱 I’m currently studying CS major
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
